@@ -1,0 +1,12 @@
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\slide-bunifu\slide-bunifu\bin\Debug\slide-bunifu.exe.config
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\slide-bunifu\slide-bunifu\bin\Debug\slide-bunifu.exe
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\slide-bunifu\slide-bunifu\bin\Debug\slide-bunifu.pdb
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\slide-bunifu\slide-bunifu\obj\Debug\slide_bunifu.Form1.resources
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\slide-bunifu\slide-bunifu\obj\Debug\slide_bunifu.Properties.Resources.resources
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\slide-bunifu\slide-bunifu\obj\Debug\slide-bunifu.csproj.GenerateResource.Cache
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\slide-bunifu\slide-bunifu\obj\Debug\slide-bunifu.exe
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\slide-bunifu\slide-bunifu\obj\Debug\slide-bunifu.pdb
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\slide-bunifu\slide-bunifu\bin\Debug\itextsharp.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\slide-bunifu\slide-bunifu\bin\Debug\Reports.dll
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\slide-bunifu\slide-bunifu\bin\Debug\itextsharp.xml
+C:\Users\gllo\Documents\Visual Studio 2015\Projects\slide-bunifu\slide-bunifu\obj\Debug\slide-bunifu.csprojResolveAssemblyReference.cache
